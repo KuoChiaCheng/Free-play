@@ -234,7 +234,7 @@ body {
 	background: url(../images/frame-bottom.gif) no-repeat bottom center;
 	margin: 0;
 	overflow: hidden;
-	padding: 16px 0;
+	padding: 10px 0;
 }
 #content .body .section .article {
 	float: left;
